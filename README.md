@@ -73,13 +73,13 @@ En parallèle, je conçois des interfaces web soignées, responsives et animées
     <tr>
       <td>🏘️</td>
       <td><b>Villager Empire</b></td>
-      <td><code>Java</code> <code>Forge</code> <code>Mod</code></td>
+      <td><code>Java</code> <code>Fabric</code> <code>NeoForge</code></td>
       <td>🔧 En dev</td>
     </tr>
     <tr>
       <td>🗺️</td>
       <td><b>Random Chunk Generation</b></td>
-      <td><code>Java</code> <code>Forge</code> <code>Mod</code></td>
+      <td><code>Java</code> <code>Fabric</code> <code>NeoForge</code></td>
       <td>🔧 En dev</td>
     </tr>
     <tr>
