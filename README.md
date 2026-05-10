@@ -1,0 +1,122 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED,9333EA,06B6D4&height=230&section=header&text=LORDERIS&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=Minecraft%20Dev%20%7C%20Full-Stack%20Web&descAlignY=60&descSize=19&descColor=A78BFA&animation=fadeIn" width="100%" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Minecraft+Plugin+Developer;Spigot+%2F+Paper+%2F+BungeeCord;Modern+Web+Developer;From+scratch+--+no+copy%2C+no+paste.)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=LordEris&label=PROFILE+VIEWS&color=7C3AED&style=flat-square&labelColor=111118)](https://github.com/LordEris)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/LordEris?label=FOLLOWERS&style=flat-square&color=06B6D4&labelColor=111118)](https://github.com/LordEris?tab=followers)&nbsp;
+[![Website](https://img.shields.io/badge/lorderis.dev-A78BFA?style=flat-square&logo=vercel&logoColor=white&labelColor=111118)](https://lorderis.dev)
+
+<br/>
+
+---
+
+### `$ whoami`
+
+**LordEris** — Développeur passionné de **plugins Minecraft** et de **sites web modernes**.<br/>
+Je crée des plugins Spigot/Paper, des systèmes de jeu complets **from scratch**.<br/>
+Pas de copier-coller, que du custom.<br/><br/>
+En parallèle, je conçois des interfaces web soignées, responsives et animées.
+
+---
+
+### `$ cat /minecraft/stack`
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot_API-F7822A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper_API-44A3E8?style=for-the-badge&logo=minecraft&logoColor=white)
+![BungeeCord](https://img.shields.io/badge/BungeeCord-5C6BC0?style=for-the-badge&logo=minecraft&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CC1018?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+### `$ cat /web/stack`
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### `$ cat /projects`
+
+<br/>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Projet</th>
+      <th>Stack</th>
+      <th>Statut</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🏝️</td>
+      <td><b>SkyBlock Hypixel Replica</b></td>
+      <td><code>Java</code> <code>Spigot</code> <code>MySQL</code></td>
+      <td>🔧 En dev</td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><b>Portfolio LordEris</b></td>
+      <td><code>HTML</code> <code>CSS</code> <code>JS</code> <code>OAuth</code></td>
+      <td>✅ En ligne</td>
+    </tr>
+    <tr>
+      <td>🖥️</td>
+      <td><b>Wirehost</b></td>
+      <td><code>HTML</code> <code>CSS</code> <code>JS</code> <code>CSS Grid</code></td>
+      <td>✅ En ligne</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### `$ cat /currently`
+
+</div>
+
+```java
+public class LordEris {
+
+    String  status      = "En développement actif 🔧";
+    String  mainProject = "SkyBlock Hypixel Replica";
+    String  learning    = "Optimisation Java & design patterns";
+    boolean openToWork  = true; // Disponible pour des commissions
+
+}
+```
+
+<div align="center">
+
+---
+
+### `$ cat /contact`
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FPQc7tq3JG)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fr.fiverr.com/s/P2ppgwE)
+[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-FF6B35?style=for-the-badge&logoColor=white)](https://builtbybit.com/members/lorderis.529266/)
+[![Portfolio](https://img.shields.io/badge/lorderis.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://lorderis.dev)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4,9333EA,7C3AED&height=110&section=footer" width="100%" />
+
+</div>
