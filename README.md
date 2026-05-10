@@ -59,6 +59,7 @@ En parallèle, je conçois des interfaces web soignées, responsives et animées
     <tr>
       <th></th>
       <th>Projet</th>
+      <th>Type</th>
       <th>Stack</th>
       <th>Statut</th>
     </tr>
@@ -67,30 +68,35 @@ En parallèle, je conçois des interfaces web soignées, responsives et animées
     <tr>
       <td>🏝️</td>
       <td><b>SkyBlock Hypixel Replica</b></td>
+      <td>Plugin</td>
       <td><code>Java</code> <code>Spigot</code> <code>MySQL</code></td>
       <td>🔧 En dev</td>
     </tr>
     <tr>
       <td>🏘️</td>
       <td><b>Villager Empire</b></td>
+      <td>Mod</td>
       <td><code>Java</code> <code>Fabric</code> <code>NeoForge</code></td>
       <td>🔧 En dev</td>
     </tr>
     <tr>
       <td>🗺️</td>
       <td><b>Random Chunk Generation</b></td>
+      <td>Mod</td>
       <td><code>Java</code> <code>Fabric</code> <code>NeoForge</code></td>
       <td>🔧 En dev</td>
     </tr>
     <tr>
       <td>🌐</td>
       <td><b>Portfolio LordEris</b></td>
+      <td>Website</td>
       <td><code>HTML</code> <code>CSS</code> <code>JS</code> <code>OAuth</code></td>
       <td>✅ En ligne</td>
     </tr>
     <tr>
       <td>🖥️</td>
       <td><b>Wirehost</b></td>
+      <td>Website</td>
       <td><code>HTML</code> <code>CSS</code> <code>JS</code> <code>CSS Grid</code></td>
       <td>✅ En ligne</td>
     </tr>
