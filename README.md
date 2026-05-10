@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Minecraft+Plugin+Developer;Spigot+%2F+Paper+%2F+BungeeCord;Modern+Web+Developer;From+scratch+--+no+copy%2C+no+paste.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Minecraft+Plugin+%26+Mod+Developer;Spigot+%2F+Paper+%2F+BungeeCord;Modern+Web+Developer;From+scratch+--+no+copy%2C+no+paste.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -68,6 +68,18 @@ En parallèle, je conçois des interfaces web soignées, responsives et animées
       <td>🏝️</td>
       <td><b>SkyBlock Hypixel Replica</b></td>
       <td><code>Java</code> <code>Spigot</code> <code>MySQL</code></td>
+      <td>🔧 En dev</td>
+    </tr>
+    <tr>
+      <td>🏘️</td>
+      <td><b>Villager Empire</b></td>
+      <td><code>Java</code> <code>Forge</code> <code>Mod</code></td>
+      <td>🔧 En dev</td>
+    </tr>
+    <tr>
+      <td>🗺️</td>
+      <td><b>Random Chunk Generation</b></td>
+      <td><code>Java</code> <code>Forge</code> <code>Mod</code></td>
       <td>🔧 En dev</td>
     </tr>
     <tr>
