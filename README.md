@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED,9333EA,06B6D4&height=230&section=header&text=LORDERIS&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=Minecraft%20Dev%20%7C%20Full-Stack%20Web&descAlignY=60&descSize=19&descColor=A78BFA&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED,9333EA,06B6D4&height=230&section=header&text=LORDERIS&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=Minecraft%20Dev&descAlignY=60&descSize=19&descColor=A78BFA&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Minecraft+Plugin+%26+Mod+Developer;Spigot+%2F+Paper+%2F+BungeeCord;Modern+Web+Developer;From+scratch+--+no+copy%2C+no+paste.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Minecraft+Plugin+%26+Mod+Developer;Spigot+%2F+Paper+%2F+BungeeCord;From+scratch+--+no+copy%2C+no+paste.)](https://git.io/typing-svg)
 
 <br/>
 
