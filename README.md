@@ -18,14 +18,13 @@
 
 ### `$ whoami`
 
-**LordEris** — Développeur passionné de **plugins Minecraft** et de **sites web modernes**.<br/>
-Je crée des plugins Spigot/Paper, des systèmes de jeu complets **from scratch**.<br/>
-Pas de copier-coller, que du custom.<br/><br/>
-En parallèle, je conçois des interfaces web soignées, responsives et animées.
+**LordEris** — Développeur passionné de **plugins & mods Minecraft**.<br/>
+Je crée des systèmes de jeu complets **from scratch** — Spigot, Paper, Fabric, NeoForge.<br/>
+Pas de copier-coller, que du custom.
 
 ---
 
-### `$ cat /minecraft/stack`
+### `$ cat /stack`
 
 <br/>
 
@@ -33,18 +32,10 @@ En parallèle, je conçois des interfaces web soignées, responsives et animées
 ![Spigot](https://img.shields.io/badge/Spigot_API-F7822A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper_API-44A3E8?style=for-the-badge&logo=minecraft&logoColor=white)
 ![BungeeCord](https://img.shields.io/badge/BungeeCord-5C6BC0?style=for-the-badge&logo=minecraft&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-B9C7A8?style=for-the-badge&logoColor=black)
+![NeoForge](https://img.shields.io/badge/NeoForge-E04E14?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CC1018?style=for-the-badge&logo=yaml&logoColor=white)
-
----
-
-### `$ cat /web/stack`
-
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 
@@ -85,20 +76,6 @@ En parallèle, je conçois des interfaces web soignées, responsives et animées
       <td>Mod</td>
       <td><code>Java</code> <code>Fabric</code> <code>NeoForge</code></td>
       <td>🔧 En dev</td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><b>Portfolio LordEris</b></td>
-      <td>Website</td>
-      <td><code>HTML</code> <code>CSS</code> <code>JS</code> <code>OAuth</code></td>
-      <td>✅ En ligne</td>
-    </tr>
-    <tr>
-      <td>🖥️</td>
-      <td><b>Wirehost</b></td>
-      <td>Website</td>
-      <td><code>HTML</code> <code>CSS</code> <code>JS</code> <code>CSS Grid</code></td>
-      <td>✅ En ligne</td>
     </tr>
   </tbody>
 </table>
