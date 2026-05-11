@@ -18,9 +18,7 @@
 
 ### `$ whoami`
 
-**LordEris** — Développeur passionné de **plugins & mods Minecraft**.<br/>
-Je crée des systèmes de jeu complets **from scratch** — Spigot, Paper, Fabric, NeoForge.<br/>
-Pas de copier-coller, que du custom.
+**LordEris** — Développeur passionné de **plugins & mods Minecraft**.
 
 ---
 
@@ -31,13 +29,8 @@ Pas de copier-coller, que du custom.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot_API-F7822A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper_API-44A3E8?style=for-the-badge&logo=minecraft&logoColor=white)
-![BungeeCord](https://img.shields.io/badge/BungeeCord-5C6BC0?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric-B9C7A8?style=for-the-badge&logoColor=black)
 ![NeoForge](https://img.shields.io/badge/NeoForge-E04E14?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CC1018?style=for-the-badge&logo=yaml&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
