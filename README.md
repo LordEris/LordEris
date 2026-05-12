@@ -68,7 +68,7 @@
       <td><b>Random Chunk Generation</b></td>
       <td>Mod</td>
       <td><code>Java</code> <code>Fabric</code> <code>NeoForge</code></td>
-      <td>🔧 En dev</td>
+      <td>✅ Terminé</td>
     </tr>
   </tbody>
 </table>
