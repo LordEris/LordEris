@@ -66,8 +66,8 @@
     <tr>
       <td>🗺️</td>
       <td><b>Random Chunk Generation</b></td>
-      <td>Mod</td>
-      <td><code>Java</code> <code>Fabric</code> <code>NeoForge</code></td>
+      <td>Plugin</td>
+      <td><code>Java</code> <code>Spigot</code></td>
       <td>✅ Terminé</td>
     </tr>
   </tbody>
