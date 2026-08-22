@@ -1,23 +1,109 @@
-## LordEris
+<div align="center">
 
-Développeur full-stack & Minecraft. Je construis des serveurs Minecraft de bout en bout — plugins, site, infrastructure — et des applications web.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED,9333EA,06B6D4&height=230&section=header&text=LORDERIS&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=Minecraft%20Dev&descAlignY=60&descSize=19&descColor=A78BFA&animation=fadeIn" width="100%" />
 
-[lorderis.dev](https://lorderis.dev)
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordEris&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=7C3AED&text_color=6B7280" alt="Langages les plus utilisés" width="340" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Minecraft+Plugin+%26+Mod+Developer;Spigot+%2F+Paper+%2F+BungeeCord;From+scratch+--+no+copy%2C+no+paste.)](https://git.io/typing-svg)
 
-### Projets
+<br/>
 
-**Craftasia Legacy** — réseau Minecraft multi-serveurs : plugin core, économie, événements, lobby, proxy, synchronisation, site officiel et bot Discord. [craftasia-legacy.com](https://craftasia-legacy.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=LordEris&label=PROFILE+VIEWS&color=7C3AED&style=flat-square&labelColor=111118)](https://github.com/LordEris)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/LordEris?label=FOLLOWERS&style=flat-square&color=06B6D4&labelColor=111118)](https://github.com/LordEris?tab=followers)&nbsp;
+[![Website](https://img.shields.io/badge/lorderis.dev-A78BFA?style=flat-square&logo=vercel&logoColor=white&labelColor=111118)](https://lorderis.dev)
 
-**Plutania** — serveur Minecraft : plugin core et site officiel. [plutania.fr](https://plutania.fr)
+<br/>
 
-**[Random Chunk Generation](https://github.com/LordEris/Random-Chunck-Generation)** — génération de chunks custom : biomes procéduraux, structures, loot tables en YAML.
+---
 
-**[Villager Empire](https://github.com/LordEris/Villager-Empire)** — mod Forge : IA villageois, économie dynamique, réputation, sièges de villages.
+### `$ whoami`
 
-**[Jobbly](https://github.com/LordEris/Jobbly)** — webapp de recherche d'emploi alimentée par API.
+**LordEris** — Développeur passionné de **plugins & mods Minecraft**.
 
-### Contact
+---
 
-[Discord](https://discord.lorderis.dev) · [Fiverr](https://fiverr.lorderis.dev) · [BuiltByBit](https://builtbybit.com/members/lorderis.529266/) · [contact@lorderis.dev](mailto:contact@lorderis.dev)
+### `$ cat /stack`
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot_API-F7822A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper_API-44A3E8?style=for-the-badge&logo=minecraft&logoColor=white)
+![Forge](https://img.shields.io/badge/Forge-1F2937?style=for-the-badge&logoColor=white)
+
+---
+
+### `$ cat /projects`
+
+<br/>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Projet</th>
+      <th>Type</th>
+      <th>Stack</th>
+      <th>Statut</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>⚙️</td>
+      <td><b>Craftasia Legacy</b></td>
+      <td>Plugin · Web</td>
+      <td><code>Java</code> <code>Spigot</code> <code>MySQL</code></td>
+      <td>🔧 En dev</td>
+    </tr>
+    <tr>
+      <td>🏘️</td>
+      <td><b>Villager Empire</b></td>
+      <td>Mod</td>
+      <td><code>Java</code> <code>Forge</code></td>
+      <td>🔧 En dev</td>
+    </tr>
+    <tr>
+      <td>🗺️</td>
+      <td><b>Random Chunk Generation</b></td>
+      <td>Plugin</td>
+      <td><code>Java</code> <code>Spigot</code></td>
+      <td>✅ Terminé</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### `$ cat /currently`
+
+</div>
+
+```java
+public class LordEris {
+
+    String  status      = "En développement actif 🔧";
+    String  mainProject = "Craftasia Legacy";
+    String  learning    = "Optimisation Java & design patterns";
+    boolean openToWork  = true; // Disponible pour des commissions
+
+}
+```
+
+<div align="center">
+
+---
+
+### `$ cat /contact`
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FPQc7tq3JG)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fr.fiverr.com/s/P2ppgwE)
+[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-FF6B35?style=for-the-badge&logoColor=white)](https://builtbybit.com/members/lorderis.529266/)
+[![Portfolio](https://img.shields.io/badge/lorderis.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://lorderis.dev)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4,9333EA,7C3AED&height=110&section=footer" width="100%" />
+
+</div>
