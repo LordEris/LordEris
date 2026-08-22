@@ -30,6 +30,7 @@
 ![Spigot](https://img.shields.io/badge/Spigot_API-F7822A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper_API-44A3E8?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Forge](https://img.shields.io/badge/Forge-1F2937?style=for-the-badge&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-B9C7A8?style=for-the-badge&logoColor=black)
 
 ---
 
